@@ -1,0 +1,8 @@
+*
+body{
+    background: url(58081-fon_krugi_dizajn.jpg);
+    background-size: cover;
+    justify-content: center;
+    background-repeat: no-repeat;
+    display: flex;
+}
